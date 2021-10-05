@@ -12,12 +12,20 @@
         "source": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
+        "merged": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\build\\intermediates\\res\\merged\\debug\\menu_login.xml.flat",
         "source": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compose.xml.flat",
+        "source": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\src\\main\\res\\layout\\activity_compose.xml"
     },
     {
         "merged": "C:\\Users\\ponwu\\Desktop\\SimpleTweet2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_timeline.xml.flat",

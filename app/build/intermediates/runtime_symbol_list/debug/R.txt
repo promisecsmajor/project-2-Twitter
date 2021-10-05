@@ -1915,6 +1915,7 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
+int id btnTweet 0x7f0801da
 int id buttonPanel 0x7f080062
 int id cache_measures 0x7f080063
 int id cancel_button 0x7f080064
@@ -1939,6 +1940,7 @@ int id clip_vertical 0x7f080076
 int id clockwise 0x7f080077
 int id closest 0x7f080078
 int id collapseActionView 0x7f080079
+int id compose 0x7f0801d9
 int id confirm_button 0x7f08007a
 int id constraint 0x7f08007b
 int id container 0x7f08007c
@@ -1992,6 +1994,7 @@ int id end 0x7f0800ab
 int id endToStart 0x7f0800ac
 int id enterAlways 0x7f0800ad
 int id enterAlwaysCollapsed 0x7f0800ae
+int id etCompose 0x7f0801db
 int id exitUntilCollapsed 0x7f0800af
 int id expand_activities_button 0x7f0800b0
 int id expanded_menu 0x7f0800b1
@@ -2357,6 +2360,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_compose 0x7f0b0073
 int layout activity_login 0x7f0b001c
 int layout activity_timeline 0x7f0b001d
 int layout custom_dialog 0x7f0b001e
@@ -2445,6 +2449,7 @@ int layout text_view_with_line_height_from_style 0x7f0b0070
 int layout text_view_with_theme_line_height 0x7f0b0071
 int layout text_view_without_line_height 0x7f0b0072
 int menu login 0x7f0c0000
+int menu menu_main 0x7f0c0001
 int plurals mtrl_badge_content_description 0x7f0d0000
 int string abc_action_bar_home_description 0x7f0e0000
 int string abc_action_bar_up_description 0x7f0e0001
@@ -2554,6 +2559,7 @@ int string path_password_eye_mask_visible 0x7f0e0068
 int string path_password_strike_through 0x7f0e0069
 int string search_menu_title 0x7f0e006a
 int string status_bar_notification_info_overflow 0x7f0e006b
+int string tweet 0x7f0e006c
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
 int style AndroidThemeColorAccentYellow 0x7f0f0002
